@@ -12,7 +12,7 @@ section#dados {
     left: 10%;
     text-align: center;
     overflow: hidden;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: white;
     width: 240px;
     height: 390px;
@@ -21,6 +21,13 @@ section#dados {
     
     transition: width .3s, height .3s;
     transition-timing-function: ease;
+}
+section#dados > div#corpo {
+    background-color: ;
+    
+    margin: 10px 10px;
+    border-radius: .2em;
+ 
 }
 
 html, body {
