@@ -6,8 +6,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    background-color: rgba(0, 0, 0, 0.596);
+    background-color: rgba(0, 0, 0, 0.473);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.781);
+    margin-top: 0.8cm;
 }
 section#dados {
     position: absolute;
